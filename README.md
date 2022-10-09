@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RodrigoNP3
+- 👋 Hello there, I’m Rodrigo.
 - 👀 I’m interested in Flutter.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Flutter Projects.
